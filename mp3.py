@@ -1,7 +1,6 @@
 from moviepy.editor import *
 from pytube import YouTube 
 import os
-import sys
 
 url = input("link ")
 
